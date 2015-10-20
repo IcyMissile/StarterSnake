@@ -1,0 +1,7 @@
+Hey, hacker! This starter pack is a (partially) working game of Snake for the iPhone! Let's get started :)'
+
+Quick note: you should already have a basic grasp of Swift. If you're not familiar, check this out (and submit a /mentor ticket if you need help understanding it!): http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift
+
+So, we're gonna build Snake. Here's what we have already:
+- A fully compiling game! Hit command-R to run it in the simulator (you might want to select an iPhone smaller than the 6+).
+- I'LL FILL THE REST OF THIS OUT LATER I PROMISE
